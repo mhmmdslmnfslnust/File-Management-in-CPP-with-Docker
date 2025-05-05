@@ -21,11 +21,11 @@ This is a **C++-based command-line file system simulator**, now with a **Docker 
 
 2. **Load the image**:
    ```bash
-   docker load -i file-mgmt-image.tar
+   docker load -i file-mangement-in-cpp-deployed-using-docker.tar
    ```
 3. **Run the container**:
    ```bash
-   docker run -it file-mgmt-in-cpp
+   docker run -it file-mangement-in-cpp-deployed-using-docker
    ```
 
 ---
@@ -40,11 +40,11 @@ Install Docker Desktop
    ```
 3. **Build the Docker image**:
    ```bash
-   docker build -t file-mgmt-in-cpp .
+   docker build -t file-mangement-in-cpp-deployed-using-docker .
    ```
 4. **Run the container:**
    ```bash
-   docker run -it file-mgmt-in-cpp
+   docker run -it file-mangement-in-cpp-deployed-using-docker
    ```
 ## 📦 What's Inside the Image?
 

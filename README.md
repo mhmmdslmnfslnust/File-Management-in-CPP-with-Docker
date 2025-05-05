@@ -62,11 +62,6 @@ This Docker image contains everything needed to run the modular file system with
 | `sample.dat`     | Data file to initialize directory structure (load/save) |
 | `Dockerfile`     | Instructions for building the Docker image |
 
-### ✅ Also Included:
-
-- A **precompiled binary** (`modular_file_system`) ready to run inside the container.
-- All files are placed in the container's working directory.
-
 ---
 
 ## 📁 About the Original Project

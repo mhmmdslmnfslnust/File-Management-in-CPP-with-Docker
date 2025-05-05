@@ -14,7 +14,7 @@ This is a **C++-based command-line file system simulator**, now with a **Docker 
 
 ### ✅ Steps to Use (Two Options)
 
-#### Option 1: You Have the Docker Image (`file-mgmt-image.tar`)
+#### Option 1: You Have the Docker Image (`file-mangement-in-cpp-deployed-using-docker.tar`)
 
 1. **Install Docker Desktop**  
    - [Download for Windows/Mac/Linux](https://www.docker.com/products/docker-desktop/)

@@ -4,6 +4,12 @@ This is a **C++-based command-line file system simulator**, now with a **Docker 
 
 ---
 
+## Download Docker Image
+You can get docker image from this release's attached binaries that I added.
+-   [Link to the Release](https://github.com/mhmmdslmnfslnust/File-Management-in-CPP-with-Docker/releases/tag/v1.1)
+
+---
+
 ## 🚀 Running with Docker (No Compilation Required)
 
 ### 🐳 For First-Time Docker Users

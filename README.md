@@ -14,18 +14,18 @@ This is a **C++-based command-line file system simulator**, now with a **Docker 
 
 ### ✅ Steps to Use (Two Options)
 
-#### Option 1: You Have the Docker Image (`file-mangement-in-cpp-deployed-using-docker.tar`)
+#### Option 1: You Have the Docker Image (`file-management-in-cpp-deployed-using-docker.tar`)
 
 1. **Install Docker Desktop**  
    - [Download for Windows/Mac/Linux](https://www.docker.com/products/docker-desktop/)
 
 2. **Load the image**:
    ```bash
-   docker load -i file-mangement-in-cpp-deployed-using-docker.tar
+   docker load -i file-management-in-cpp-deployed-using-docker.tar
    ```
 3. **Run the container**:
    ```bash
-   docker run -it file-mangement-in-cpp-deployed-using-docker
+   docker run -it file-management-in-cpp-deployed-using-docker
    ```
 
 ---
@@ -40,11 +40,11 @@ Install Docker Desktop
    ```
 3. **Build the Docker image**:
    ```bash
-   docker build -t file-mangement-in-cpp-deployed-using-docker .
+   docker build -t file-management-in-cpp-deployed-using-docker .
    ```
 4. **Run the container:**
    ```bash
-   docker run -it file-mangement-in-cpp-deployed-using-docker
+   docker run -it file-management-in-cpp-deployed-using-docker
    ```
 ## 📦 What's Inside the Image?
 
